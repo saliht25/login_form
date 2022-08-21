@@ -1,0 +1,35 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
+
+form{
+    width: 400px;
+    border: 1px solid gray;
+    margin: 5% 30% 0% 30%;
+    padding: 30px 30px 30px 30px;
+
+}
+
+h1{
+    text-align: center;
+    color: cornflowerblue;
+}
+
+input{
+    width: 90%;
+    height: 30px;
+}
+
+button{
+    width: 70px;
+    height: 30px;
+    color: white;
+    background-color: cornflowerblue;
+}
+
+p{
+    margin-top: 0%;
+    color: red;
+}
